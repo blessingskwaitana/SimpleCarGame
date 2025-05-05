@@ -1,2 +1,0 @@
-# SimpleCarGame
-simplecar game 
